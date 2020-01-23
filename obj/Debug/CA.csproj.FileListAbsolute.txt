@@ -1,0 +1,7 @@
+C:\Users\ww\source\repos\CA\CA\bin\Debug\CA.exe.config
+C:\Users\ww\source\repos\CA\CA\bin\Debug\CA.exe
+C:\Users\ww\source\repos\CA\CA\bin\Debug\CA.pdb
+C:\Users\ww\source\repos\CA\CA\obj\Debug\CA.csprojAssemblyReference.cache
+C:\Users\ww\source\repos\CA\CA\obj\Debug\CA.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\CA\CA\obj\Debug\CA.exe
+C:\Users\ww\source\repos\CA\CA\obj\Debug\CA.pdb
